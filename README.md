@@ -37,9 +37,9 @@ This project contains a Divide and Conquer algorithm for Matrix multiplication b
         $ make install
     <br>
 
-## Build Matrix Multiplication software
+## Run Matrix Multiplication software
 
-1. For example if we want to build "dac-one-core". <br>
+1. For example if we want to run "dac-one-core". <br>
 
 <br>
 
@@ -58,7 +58,7 @@ This project contains a Divide and Conquer algorithm for Matrix multiplication b
     $ make sim
 <br>
 
-2. If we want to build "dac-two-core". <br>
+2. If we want to run "dac-two-core". <br>
 
 <br>
 
@@ -71,7 +71,7 @@ This project contains a Divide and Conquer algorithm for Matrix multiplication b
     $ make sim
 <br>
 
-3. If we want to build "dac-four-core". <br>
+3. If we want to run "dac-four-core". <br>
 
 <br>
 
